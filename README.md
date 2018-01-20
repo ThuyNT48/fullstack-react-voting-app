@@ -1,3 +1,5 @@
+Working through the first project from FullStack React.
+
 ### Running the app
 
 1. Ensure you have `npm` installed.
